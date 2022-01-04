@@ -7,9 +7,7 @@
   <p align="center">
      
         Realização da criação da landing page Platinum Card com base no modelo desenvolvido no figma (#Modelo)
-
-       <br />
-    <br />
+        
   </p>
 </p>
 

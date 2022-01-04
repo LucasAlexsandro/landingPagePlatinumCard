@@ -7,7 +7,7 @@
   <p align="center">
      
         Realização da criação da landing page Platinum Card com base no modelo desenvolvido no figma (#Modelo)
-        
+
   </p>
 </p>
 
@@ -43,4 +43,4 @@ Com todos os créditos de design do figma para: <a href="https://www.uplabs.com/
 
 ## Tipo de fonte:
 
-  font-family: 'Nunito', sans-serif;1
+  font-family: 'Nunito', sans-serif;
